@@ -1,6 +1,8 @@
 # rid
 Ordinary ridge regression estimator Use rid (lrmest) With (In) R Software
 
+https://www.youtube.com/watch?v=-ett6mMJfbU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
